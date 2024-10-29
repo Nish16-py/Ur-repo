@@ -12,5 +12,5 @@ pull.rebase=false
 credential.helper=manager
 credential.https://dev.azure.com.usehttppath=true
 init.defaultbranch=master
-user.name=Nish Dagur
+user.name=Nishant
 user.email=dagurnishant9@gmail.com
